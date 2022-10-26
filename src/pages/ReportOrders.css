@@ -1,0 +1,19 @@
+
+.report_orders {
+    display: flex;
+}
+
+.form_page_side {
+    width: 35%;
+    border-right: grey 1px solid;
+}
+
+.table_page_side {
+    width: 65%;
+}
+
+.form_title {
+    font-size: 27px;
+    font-weight: 700;
+    margin: 15px 0px;
+}

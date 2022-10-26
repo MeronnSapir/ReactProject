@@ -1,0 +1,59 @@
+
+.overviewFirstLine {
+    min-height: 30%;
+    width: 100%;
+    display: flex
+}
+
+.overviewSecondLine {
+    min-height: 30%;
+    width: 100%;
+    display: flex;
+    /* position: absolute; */
+}
+
+.totalBalance {
+    /* height: 300px; */
+    width: 30%;
+    border: grey 1px solid;
+    vertical-align: middle;
+}
+
+.balanceTitle {
+    padding-top: 20%;
+}
+
+.balanceGraph {
+    width: 70%;
+    height: 300px;
+    border: grey 1px solid;
+
+}
+
+.holdingsPie {
+    width: 33%;
+    padding: 10px;
+    height: 100%;
+}
+
+.marketPie {
+    width: 33%;
+    padding: 10px;
+    height: 100%;
+}
+
+.moversList {
+    width: 33%;
+    padding: 10px;
+    height: 100%;
+}
+
+.moversTitle {
+    font-size: 30px;
+    font-family: 
+}
+
+.div.ant-statistic-title {
+    font-size: 40px;
+    color: green;
+}

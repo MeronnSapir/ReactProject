@@ -1,0 +1,11 @@
+.ordersTable {
+    width: 90%;
+    /* float: right; */
+    margin: auto;
+    /* display: flex; */
+}
+
+.buttonsBar {
+    float:left;
+    margin-bottom: 7px;
+}

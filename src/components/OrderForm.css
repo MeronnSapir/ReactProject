@@ -1,0 +1,63 @@
+.buy_button {
+    color: green;
+    border-color: green;
+    border-widtH: 2px;
+    border-right-color: grey;
+    background-color: white;
+    border-radius: 10%;
+    padding: 5px 18px;
+}
+
+/* .buy_button:focus {
+background-color: green;
+color: white;
+} */
+
+.clicked_buy_button {
+    background-color: green;
+    color: white;
+    border-radius: 10%;
+    padding: 5px 18px;
+
+}
+
+.sell_button {
+    color: red;
+    border-color: red;
+    border-left-color: grey;
+    background-color: white;
+    border-radius: 10%;
+    padding: 5px 18px;
+
+}
+
+/* .sell_button:focus {
+background-color: red;
+color: white;
+} */
+
+.clicked_sell_button {
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    padding: 5px 18px;
+
+}
+
+.order_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.form_object {
+    margin: 9px 0;
+    width: 200px;
+    height: 50px;
+}
+
+
+.submit_button  {
+    margin-top: 20px;
+}

@@ -1,0 +1,7 @@
+.barLink {
+    text-decoration: none;
+}
+
+.disabled-appbar {
+    pointer-events: none;
+}
